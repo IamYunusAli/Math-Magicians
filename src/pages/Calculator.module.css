@@ -1,5 +1,6 @@
 .calculator {
-  width: 400px;
+  width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -7,7 +8,7 @@
 
 .output {
   background-color: #a6a6ac;
-  height: 20px;
+  height: 100%;
   padding: 10px;
   display: flex;
   justify-content: flex-end;
@@ -27,10 +28,16 @@ button {
   border-bottom: 1px solid #bbb;
 }
 
+button:hover {
+  background-color: #000;
+  color: antiquewhite;
+}
+
 .sign {
   background-color: #f39136ec;
 }
 
 .equal {
-  width: 32%;
+  width: 33%;
+  background-color: #f39136ec;
 }
