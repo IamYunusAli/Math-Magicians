@@ -26,6 +26,12 @@ To Run the project
 5. use http://localhost:3000/ on your browser
 ```
 
+To Run test
+
+```
+ npm test
+
+```
 enjoy
 
 ## Authors
