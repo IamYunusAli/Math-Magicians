@@ -8,9 +8,9 @@
 - HTML and CSS
 - Javascript
 
-## Live Demo (if available)
+## Live Demo
 
-[not available]()
+[View live here](https://yunusmath.netlify.app)
 
 ## Getting Started
 
